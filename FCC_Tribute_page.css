@@ -1,0 +1,52 @@
+body{
+  font-family: Amaranth, Georgia, sans-serif;
+  text-align: center;
+  color: darkslategray;
+}
+.main {
+  width: 80%;
+  background: honeydew;
+  margin: 3em auto;
+  border: 0.1em solid darkslategray;
+}
+img {
+  width: 99%;
+  padding: .5%;
+  padding-bottom: 0;
+}
+.image {
+  background: seashell;
+  width: 70%;
+  margin: 0 auto;
+}
+.caption {
+  padding: 0.2em;
+  text-align: center;
+  margin: 0;
+}
+.timeline {
+  text-align: left;
+  padding: 0 3em;
+}
+h1 {
+  font-size: 350%;
+  font-family: "Roboto Slab", Amaranth, Georgia, sans-serif;
+}
+h2 {
+  font-size: 175%;
+  font-family: "Roboto Slab", Amaranth, Georgia, sans-serif;
+}
+.timeline p {
+  font-size: 125%;
+}
+.quote {
+  text-align: left;
+  padding: 0 7%;
+  font-family: "Roboto Slab", Amaranth, Georgia, sans-serif;
+}
+footer {
+  padding-top: 3em;
+  border-top: 0.1em solid darkslategray;
+  width: 80%;
+  margin: 0 auto;
+}
